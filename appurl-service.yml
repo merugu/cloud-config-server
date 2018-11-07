@@ -1,11 +1,23 @@
 {
-  "public":
+  "common":
   {
-	"google" : "http://google.com"
+    "ccb"     : "https://abc.com/t/PRIMEX/views/",
+    "ea1"     : "https://abc.com/t/PRIMEX/views/",
+    "ea2"     : "https://abc.com/t/PRIMEX/views/",
+    "teds"      : "https://abc.com/t/PRIMEX/views/"  
   },
-  "private":
+  "bcbsmcmhmo":
   {
-    "gmail"     : "https://gmail.com",
-    "facebook"     : ""facebook"     : "https://facebook.com"   
+    "ccb"     : "CCB_Dashboard/MainDashboard",
+    "ea1"     : "EA_Dashboard_Summary_Statistics/SummaryDashboard",
+    "ea2"     : "EA_Dashboard_Top_Spend_Areas/MainDashboard",
+    "teds"      : "TEDS_Analysis_1/Main_Dashboard"    
+  },
+  "ibx":
+  {
+    "ccb"     : "CCB_Dashboard_1/MainDashboard",
+    "ea1"     : "EA_Dashboard_Summary_Statistics_1/SummaryDashboard",
+    "ea2"     : "EA_Dashboard_Top_Spend_Areas_0/MainDashboard",
+    "teds"      : "TEDS_Analysis_2/Main_Dashboard"
   }
 }
