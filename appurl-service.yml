@@ -16,7 +16,7 @@
   "ibx":
   {
     "ccb"     : "CCB_Dashboard_1/MainDashboard",
-    "ea1"     : "EA_Dashboard_Summary_Statistics_1/SummaryDashboard",
+    "ea1"     : "UpdatedEA_Dashboard_Summary_Statistics_1/SummaryDashboard",
     "ea2"     : "EA_Dashboard_Top_Spend_Areas_0/MainDashboard",
     "teds"      : "TEDS_Analysis_2/Main_Dashboard"
   }
